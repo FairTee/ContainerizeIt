@@ -44,3 +44,17 @@ Similar Products: Existing solutions include Docker Swarm, Kubernetes, and Amazo
 Comparison: Unlike more complex container orchestration platforms, our project focuses on simplicity and ease of use, targeting developers and small teams who need a lightweight solution for container deployment. While Kubernetes and ECS offer advanced features for large-scale deployments, our project aims to provide a more streamlined experience for smaller-scale applications.
 Reimplementation Decision: While existing solutions offer powerful features, they may be overly complex for certain use cases. We chose to reimplement a simpler container orchestration solution to cater to users who prioritize ease of use and simplicity over advanced functionalities.
 
+#### Installation:
+- [Installation Instructions]
+
+#### Usage:
+- [Usage Instructions]
+
+#### Contributing:
+- [Contributing Guidelines]
+
+#### Related Projects:
+- [Related Projects]
+
+#### Licensing:
+- [Licensing Information]
